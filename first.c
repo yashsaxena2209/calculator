@@ -12,7 +12,7 @@ int main()
     
     int volume = l * b * h;
     printf("The Volume of the cuboid is: %d\n", volume);
-    
+    getch();
     return 0;
 }
 ---------------------------------------
@@ -55,7 +55,7 @@ int main()
     
     vol = 4/3 * PI * r * r * r;
     printf("The Volume is: %f\n", vol);
-    
+    getch();
     return 0;
 }
 
